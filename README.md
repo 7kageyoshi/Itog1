@@ -26,12 +26,12 @@
 ![Task 5](https://user-images.githubusercontent.com/99810114/221401222-7d436e91-2fdd-4389-8a95-c6ebc7e26300.jpg)
 
 5. Выложить [историю команд](https://github.com/ILYA-NASA/Kennel_account_system/blob/main/HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
-6. Нарисовать [диаграмму](https://github.com/ILYA-NASA/Kennel_account_system/blob/main/UML.drawio), в которой есть класс родительский класс, домашние
+
+6. Нарисовать [диаграмму](https://github.com/7kageyoshi/Itog/blob/main/UML.drawio), в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы).
-
-![UML](https://user-images.githubusercontent.com/99810114/221403005-bfe39717-2d41-431d-bc03-f78a1aeb76df.jpg)
+![UML](https://i.imgur.com/FpcOWAC.png)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья
 человека”
