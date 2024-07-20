@@ -25,7 +25,7 @@
 
 ![Task 5](https://i.imgur.com/SGOOnlm.jpeg)
 
-5. Выложить [историю команд](https://github.com/ILYA-NASA/Kennel_account_system/blob/main/HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
+5. Выложить [историю команд](https://github.com/7kageyoshi/Itog/blob/main/HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
 
 6. Нарисовать [диаграмму](https://github.com/7kageyoshi/Itog/blob/main/UML.drawio), в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
